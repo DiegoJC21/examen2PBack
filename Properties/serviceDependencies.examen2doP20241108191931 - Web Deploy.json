@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/examen2doPapi/apis/examen2doP",
+      "type": "apis.azure"
+    },
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/examen2doP20241108191931/providers/Microsoft.ServiceLinker/linkers/ConnectionStringscadenaSQL_A8347EF7B4",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/examen2parcialdbserver/databases/examen2parcial",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:cadenaSQL",
+      "dynamicId": null
+    }
+  }
+}

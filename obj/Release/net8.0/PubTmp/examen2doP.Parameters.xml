@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="examen2doP20241108191931" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Lenovo\\Documents\\Trabajos\ de\ universidad\\Decimo\ Cuatri\\AWP\\P2\\Examen\\examen2doP\\examen2doP\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
